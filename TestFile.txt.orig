@@ -1,0 +1,30 @@
+
+
+One
+Two
+Three
+Four
+Five
+(master continues on)
+Six
+Seven
+Eight
+<<<<<<< HEAD
+NineSeven
+
+
+
+
+
+
+
+
+
+thomas1 stuff begins here
+thomas1 one
+thomas1.two
+thomas1.three
+=======
+Nine
+(adding a line here on master)
+>>>>>>> (adding a line here on master)
